@@ -1,1 +1,2 @@
-Join Discord Server https://bobeebeatz.ml/discord/
+Profil Discord
+

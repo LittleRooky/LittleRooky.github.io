@@ -5,7 +5,7 @@ https://discord.gg/FNz7Xgktm2
 --
 BoBeeBeatz.jpg
 --
-🍀 ꫀ᥇ꪮꪀꪗ𝓽ꪖ 🍀
+ꫀ᥇ꪮꪀꪗ𝓽ꪖ
 `;
 
 export {db} 
